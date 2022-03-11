@@ -1,6 +1,6 @@
 @mixin menu( $tamanio , $colorletra) {
-    font-size: $tamanio;
-    color: $colorletra;
+    font-size: $tamanio !important;
+    color: $colorletra !important;
 
     }
 
